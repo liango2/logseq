@@ -5,6 +5,9 @@
 :background-color: #533e7d
 :END:
 **** 验证一切
+:PROPERTIES:
+:background-color: #497d46
+:END:
 ***** 正面验证
 ***** 反面验证
 ** 分析

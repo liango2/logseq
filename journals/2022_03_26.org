@@ -22,6 +22,9 @@
 :background-color: #264c9b
 :END:
 *** 在分析源码和分析原理的时候，不应该拘泥于小节
+:PROPERTIES:
+:background-color: #793e3e
+:END:
 **** 应该观其大意
 **** 应为每一种写法和每一种细节有个人的偏好
-*
+* [[../assets/image_1648375511958_0.png]]{:height 231, :width 450}{:height 71, :width 109}

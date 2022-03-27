@@ -9,9 +9,18 @@
 :background-color: #497d46
 :END:
 ***** 正面验证
+:PROPERTIES:
+:background-color: #787f97
+:END:
 ***** 反面验证
+:PROPERTIES:
+:background-color: #978626
+:END:
 ** 分析
 *** 不拘小节，观其大意
+:PROPERTIES:
+:background-color: #264c9b
+:END:
 *** 在分析源码和分析原理的时候，不应该拘泥于小节
 **** 应该观其大意
 **** 应为每一种写法和每一种细节有个人的偏好
